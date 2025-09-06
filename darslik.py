@@ -1,3 +1,4 @@
+
 # print('salom') #salom sozini conslolga chiqarib beradi 
 
 # print('salom ismim "Olmosbek"') # qoshtirnoqli sozlarni chiqarib beradi
