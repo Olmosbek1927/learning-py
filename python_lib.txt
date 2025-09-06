@@ -1,0 +1,140 @@
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+pip install tensorflow
+pip install torch
+pip install opencv-python
+pip install requests
+pip install flask
+pip install django
+
+
+📌 1. numpy
+
+👉 Vazifasi: Matematika va massivlar (array) bilan ishlash.
+
+Matritsa hisob-kitoblari
+
+Ilmiy hisoblashlar
+
+AI va ML’da ma’lumotlarni tezkor qayta ishlash
+
+
+
+📌 2. pandas
+
+👉 Vazifasi: Jadval (Excelga o‘xshash) ma’lumotlarni boshqarish.
+
+CSV, Excel, SQL fayllar bilan ishlash
+
+Ma’lumotlarni filtrlash, guruhlash, tozalash
+
+Data Science’da asosiy kutubxona
+
+
+
+📌 3. matplotlib
+
+👉 Vazifasi: Grafik va diagrammalar chizish.
+
+Chiziqli grafik
+
+Nuqtali grafik
+
+Histograma va boshqa vizualizatsiyalar
+
+
+
+📌 4. seaborn
+
+👉 Vazifasi: Matplotlib’ga asoslangan chiroyli grafiklar.
+
+Statistik tahlil uchun vizualizatsiya
+
+Korelatsiya jadvali (heatmap)
+
+Professional darajadagi grafiklar
+
+
+
+📌 5. scikit-learn
+
+👉 Vazifasi: Mashina o‘rganishi (ML).
+
+Klassifikatsiya (spam / not spam)
+
+Regressiya (narxni oldindan aytish)
+
+Klasterlash (bir-biriga o‘xshash guruhlash)
+
+
+
+📌 6. tensorflow
+
+👉 Vazifasi: Neyron tarmoqlar va chuqur o‘rganish (Deep Learning).
+
+Sun’iy intellekt modellari
+
+Tasvirni tanish (image recognition)
+
+Tovush / matnni qayta ishlash
+
+
+
+📌 7. torch (PyTorch)
+
+👉 Vazifasi: AI uchun mashhur kutubxona (TensorFlow raqibi).
+
+Deep Learning modellarini yaratish
+
+GPU yordamida tez ishlash
+
+Kompyuter ko‘rish va NLP (Natural Language Processing)
+
+
+
+📌 8. opencv-python
+
+👉 Vazifasi: Rasm va video bilan ishlash.
+
+Kamera orqali yuzni aniqlash
+
+Suratni tahrirlash (kesish, aylantirish, filtr qo‘yish)
+
+Computer Vision loyihalari
+
+
+
+📌 9. requests
+
+👉 Vazifasi: Internetdan ma’lumot olish (HTTP so‘rovlar).
+
+Saytdan ma’lumot yuklab olish (web scraping)
+
+API’lar bilan ishlash (Telegram bot, Google API va h.k.)
+
+
+
+📌 10. flask
+
+👉 Vazifasi: Veb-sayt va API yaratish.
+
+Oddiy sayt backend’i
+
+REST API (Telegram bot serverlari, AI backend)
+
+Kichik loyihalar uchun yengil framework
+
+
+
+📌 11. django
+
+👉 Vazifasi: Katta veb-saytlar yaratish.
+
+To‘liq backend framework (avtorizatsiya, admin panel)
+
+Internet-do‘kon, blog, ijtimoiy tarmoq tuzish mumkin
+
+Flask’dan og‘irroq, lekin kuchliroq
