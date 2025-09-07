@@ -116,3 +116,57 @@
 # summ = reduce(lambda a, b: a + b, nums)
 # print("doubled:", doubled, "evens:", evens, "sum:", summ)
 # Izoh: map funksiyani har elementga qo'llaydi; filter shartga mos elementlarni oladi; reduce ro'yxatni bitta qiymatga qisqartiradi.
+
+# x = int(input('son kiriting: '))
+# y=int(input('darajasini ayting: '))
+# def a():
+#     print(x ** y)
+# a()  # funksiya uzgaruvchi funksiyadan tashqarida berilgan
+
+# def funksiya():
+#     global x , y
+#     x = int(input('son kiriting: '))
+#     y=int(input('darajasini ayting: ')) 
+#     print(x ** y)
+# funksiya() # funksiya ichida uzgaruvchi bor
+
+# uzlashtirish operatori
+# = x = 5 x=5
+# += x += 3 x = x + 3
+# - = x -= 3 x= x - 3
+# *= x *= 3 x= x * 3
+# /= x /= 5 x = x / 5
+# %= x %= 5 x = x % 5
+# //= x //= 5 x = x // 5
+# **= x **= 5 x = x ** 3
+# &= x &= 3 x = x & 3
+# |= x |= 3 x = x |3
+# ^= x ^= 3 x = x ^ 3
+# >>= x >>= 3 x = x >> 3
+# <<= x <<= 3 x = x << 3 
+
+
+# Taqqoslash operatorlari qiymatlarni o’zaro taqqoslash uchuyn ishlatiladi:
+# = = Teng x == y
+# != Teng emas x != y
+# > Katta x > y
+# < Kichik x < y
+# >= Katta yoki teng x >= y
+# <= Kichik yoki teng x <= y
+
+# a = 5
+# print (a>3 and a<10)
+# print (a>3 or a<4)
+# print (not(a>3 and a<10)) #mantiq operatori
+
+# x = ["olma", "banan"]
+# y = ["olma", "banan"]
+# z = x
+# print(x is z)
+# print(x is y)
+# print(x == z)
+# #------------------------------------------------------------------------
+# print(x is not z)
+# print(x is not y)
+# print(x != z) #aniqlash operatori
+
